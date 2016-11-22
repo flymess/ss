@@ -1,0 +1,82 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@font-face {
+    font-family: 'Taidii';
+    src: url('/font/icomoon.eot');
+    src: url('/font/icomoon.eot?#iefix') format('embedded-opentype'),
+    url('/font/icomoon.woff') format('woff'),
+    url('/font/icomoon.ttf') format('truetype'),
+    url('/font/icomoon.svg#Taidii') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+.td-icon-mine:before{
+    font-family: 'Taidii';
+    content: "\E901"
+}
+.td-icon-message:before{
+    font-family: 'Taidii';
+    content: "\E903"
+}
+.td-icon-index:before{
+    font-family: 'Taidii';
+    content: "\E905"
+}
+.td-icon{
+    width:100%;
+    text-align: center;
+    display: block;
+    font-size: 20px;
+    color:#333
+}
+
+
+
+
+
+.icon-Circle{
+    width:30px;
+    height:30px;
+    border-radius: 50%;
+    position: absolute;
+    right:20px;
+    bottom:50px;
+    background: red;
+}
+.icon-Circle-image-1{
+    background: url(/a38bf3dbc4d06f931f0e1d072f5724ac.png);
+}
+
+
+
+
+html{
+    font-size:62.5%;
+}
+body{
+    font-size: 1.2rem;
+    background: #FFFFFF;
+}

@@ -1,0 +1,35 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "http-proxy": "^1.13.3",
+    "koa": "^1.2.0",
+    "mockjs": "^1.0.1-beta2",
+    "multer": "^1.1.0",
+    "q": "^1.4.1",
+    "redis": "^2.6.2",
+    "request": "^2.72.0",
+    "serve-favicon": "^2.3.0",
+    "socket.io": "^1.4.8",
+    "wechat": "^2.0.3",
+    "wechat-api": "^1.27.1",
+    "wechat-oauth": "^1.1.1",
+    "wechat-pay": "^0.2.3"
+  },
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
